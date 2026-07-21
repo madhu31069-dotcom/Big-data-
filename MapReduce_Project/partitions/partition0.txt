@@ -1,0 +1,4 @@
+Clothing,1
+Clothing,1
+Furniture,1
+Furniture,1

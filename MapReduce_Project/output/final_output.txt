@@ -1,0 +1,4 @@
+Accessories 2
+Clothing 2
+Electronics 4
+Furniture 2
